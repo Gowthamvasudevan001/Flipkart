@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-08T17:53:16Z" name="Default suite" finished-at="2021-01-08T17:54:00Z" duration-ms="43706">
+    <groups>
+    </groups>
+    <test started-at="2021-01-08T17:53:16Z" name="Default test" finished-at="2021-01-08T17:54:00Z" duration-ms="43706">
+      <class name="org.test.Flipexe">
+        <test-method is-config="true" signature="lau()[pri:0, instance:org.test.Flipexe@f0c8a99]" started-at="2021-01-08T17:53:16Z" name="lau" finished-at="2021-01-08T17:53:26Z" duration-ms="9953" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lau -->
+        <test-method is-config="true" signature="start()[pri:0, instance:org.test.Flipexe@f0c8a99]" started-at="2021-01-08T17:53:26Z" name="start" finished-at="2021-01-08T17:53:26Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method signature="tc()[pri:0, instance:org.test.Flipexe@f0c8a99]" started-at="2021-01-08T17:53:26Z" name="tc" finished-at="2021-01-08T17:53:59Z" duration-ms="32510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc -->
+        <test-method is-config="true" signature="end()[pri:0, instance:org.test.Flipexe@f0c8a99]" started-at="2021-01-08T17:53:59Z" name="end" finished-at="2021-01-08T17:53:59Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+        <test-method is-config="true" signature="clo()[pri:0, instance:org.test.Flipexe@f0c8a99]" started-at="2021-01-08T17:53:59Z" name="clo" finished-at="2021-01-08T17:54:00Z" duration-ms="1195" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clo -->
+      </class> <!-- org.test.Flipexe -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
